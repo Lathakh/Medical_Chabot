@@ -1,0 +1,8 @@
+ctransformers==0.2.5  # used to cpu load quantized model 
+sentence-transformers==2.2.2 # download embedding generation model from hugging face
+pinecone-client    # used to store vector embeddings
+langchain==0.0.225  # framework used to build with LLMs by chaining interoperable components.
+flask  # web app framwork to create front end 
+pypdf   
+python-dotenv
+# used to install src has local  package
